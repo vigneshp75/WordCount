@@ -10,7 +10,7 @@ namespace WordCount
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Word count program.");
+            Console.WriteLine("Word count program.")
         }
     }
 }
